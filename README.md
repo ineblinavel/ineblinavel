@@ -3,7 +3,8 @@
 
 #### Contatos
 
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](luansantribeiro@gmail.com)[![OUTLOOK](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](luansantribeiro@hotmail.com)
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luansantribeiro@gmail.com)[![OUTLOOK](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:luansantribeiro@hotmail.com)
+
 
 ![](https://github-readme-stats.vercel.app/api?username=Lopogamer&show_icons=true&theme=dracula)
 
