@@ -7,6 +7,7 @@
 
 
 ![](https://github-readme-stats.vercel.app/api?username=Lopogamer&show_icons=true&theme=dracula)
+[![wakatime](https://wakatime.com/badge/user/018cd495-a2e7-450e-b086-7cfafab3708a.svg)](https://wakatime.com/@018cd495-a2e7-450e-b086-7cfafab3708a)
 
 #### Cursando Ciência da Computação na Universidade de Brasília.
 
