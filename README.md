@@ -1,5 +1,6 @@
 
 ### Olá, eu sou o Luan Ribeiro. ✌️
+#### Cursando Ciência da Computação na Universidade de Brasília.
 
 #### Contatos
 
@@ -7,9 +8,9 @@
 
 
 ![](https://github-readme-stats.vercel.app/api?username=Lopogamer&show_icons=true&theme=dracula)
-[![wakatime](https://wakatime.com/badge/user/018cd495-a2e7-450e-b086-7cfafab3708a.svg)](https://wakatime.com/@018cd495-a2e7-450e-b086-7cfafab3708a)
 
-#### Cursando Ciência da Computação na Universidade de Brasília.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lopogamer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Tecnologias que eu uso
 <div style="display: inline_block"><br/>
