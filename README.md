@@ -12,12 +12,12 @@
 
 
 ## Languages and Technologies I Know
-[![My Skills](https://skillicons.dev/icons?i=python,java,flask,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,flask,js,html,css,cpp,springboot)](https://skillicons.dev)
 
 
 ## Languages and Technologies I Plan to Learn
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,fastapi,spring,lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=fastapi,lua)](https://skillicons.dev)
 
 ## Practice Sites
 [![Code Wars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/lopogamer)
