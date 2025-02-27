@@ -12,7 +12,7 @@
 
 
 ## Languages and Technologies I Know
-[![My Skills](https://skillicons.dev/icons?i=python,java,flask,js,html,css,cpp,springboot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,flask,js,html,css,cpp,spring)](https://skillicons.dev)
 
 
 ## Languages and Technologies I Plan to Learn
