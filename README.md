@@ -49,6 +49,9 @@ Busco constantemente aprimorar minhas habilidades e estou sempre aberto a novos 
 <p>
   <a href="https://github.com/ineblinavel/Simulador-RiscV">🔗 Repositório no GitHub</a>
 </p>
+
+---
+
 ## 🛠️ Habilidades e Tecnologias
 
 
