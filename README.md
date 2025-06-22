@@ -22,10 +22,33 @@ Busco constantemente aprimorar minhas habilidades e estou sempre aberto a novos 
 
 ## 🚀 Projetos em Destaque
 
-*(Adicione aqui seus principais projetos, conforme o modelo sugerido acima)*
+### 1. Agregador de Investimentos
+<p>
+  <em>API REST para agregação de investimentos que permite aos usuários consolidar e acompanhar o desempenho de seus ativos de diversas corretoras. O projeto foi desenvolvido com foco em uma arquitetura de microsserviços, utilizando Docker para conteinerização.</em>
+</p>
+<p>
+  <strong>Tecnologias:</strong>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,docker" />
+  </a>
+</p>
+<p>
+  <a href="https://github.com/ineblinavel/AgregadorDeInvestimentos">🔗 Repositório no GitHub</a>
+</p>
 
----
-
+### 2. Simulador de Processador RISC-V
+<p>
+  <em>Implementação em C de um simulador para o conjunto de instruções RV32I do padrão RISC-V. O projeto processa código de montagem e simula o comportamento do processador, incluindo a execução de instruções, manipulação de registradores e acesso à memória. Demonstra um forte conhecimento de arquitetura de computadores.</em>
+</p>
+<p>
+  <strong>Tecnologias:</strong>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c" />
+  </a>
+</p>
+<p>
+  <a href="https://github.com/ineblinavel/Simulador-RiscV">🔗 Repositório no GitHub</a>
+</p>
 ## 🛠️ Habilidades e Tecnologias
 
 
@@ -60,7 +83,6 @@ Busco constantemente aprimorar minhas habilidades e estou sempre aberto a novos 
   </a>
 </p>
 
-
 ---
 
 <p align="center">
@@ -69,32 +91,3 @@ Busco constantemente aprimorar minhas habilidades e estou sempre aberto a novos 
 </p>
 
 ---
-## 🚀 Projetos em Destaque
-
-### 1. Agregador de Investimentos
-<p>
-  <em>API REST para agregação de investimentos que permite aos usuários consolidar e acompanhar o desempenho de seus ativos de diversas corretoras. O projeto foi desenvolvido com foco em uma arquitetura de microsserviços, utilizando Docker para conteinerização.</em>
-</p>
-<p>
-  <strong>Tecnologias:</strong>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,docker" />
-  </a>
-</p>
-<p>
-  <a href="https://github.com/ineblinavel/AgregadorDeInvestimentos">🔗 Repositório no GitHub</a>
-</p>
-
-### 2. Simulador de Processador RISC-V
-<p>
-  <em>Implementação em C de um simulador para o conjunto de instruções RV32I do padrão RISC-V. O projeto processa código de montagem e simula o comportamento do processador, incluindo a execução de instruções, manipulação de registradores e acesso à memória. Demonstra um forte conhecimento de arquitetura de computadores.</em>
-</p>
-<p>
-  <strong>Tecnologias:</strong>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c" />
-  </a>
-</p>
-<p>
-  <a href="https://github.com/ineblinavel/Simulador-RiscV">🔗 Repositório no GitHub</a>
-</p>
