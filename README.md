@@ -7,9 +7,11 @@ Sou graduando em Ciência da Computação pela **Universidade de Brasília (UnB)
 
 Acredito que a base da computação está nos detalhes do baixo nível. Por isso, foco meus estudos em arquitetura de computadores, compiladores e performance, sem deixar de lado a robustez de sistemas distribuídos com Java.
 
-📊 **Atualmente explorando:** `Rust`, `Kubernetes` e `FastAPI`.
-🛠️ **Background técnico:** Desenvolvimento de APIs com Spring Boot e simuladores em C.
-💡 **Buscando aplicar** eficiência de baixo nível para resolver problemas de infraestrutura e performance no mercado.
+ 📊 **Atualmente explorando:** `Rust`, `Kubernetes` e `FastAPI`.
+
+ 🛠️ **Background técnico:** Desenvolvimento de APIs com Spring Boot e simuladores em C. 
+
+ 💡 **Buscando aplicar** eficiência de baixo nível para resolver problemas de infraestrutura e performance no mercado.
 
 <p align="left">
   <a href="https://github.com/ineblinavel?tab=followers">
