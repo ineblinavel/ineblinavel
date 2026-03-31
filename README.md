@@ -1,89 +1,63 @@
-# Olá, eu sou o Luan Ribeiro! ✌️
+# ⚡ Olá, eu sou o Luan Ribeiro!
 
-### Estudante de Ciência da Computação na Universidade de Brasília (UnB).
+### 🎓 Estudante de Ciência da Computação @ UnB
+**Desenvolvedor Backend | Entusiasta de Sistemas Operacionais & Low-level**
 
----
+Sou graduando em Ciência da Computação pela **Universidade de Brasília (UnB)**. Atualmente, estou no 6º semestre e atuo como monitor/tutor acadêmico, auxiliando no ensino de lógica e algoritmos.
 
-## 👨‍💻 Sobre Mim
+Acredito que a base da computação está nos detalhes do baixo nível. Por isso, foco meus estudos em arquitetura de computadores, compiladores e performance, sem deixar de lado a robustez de sistemas distribuídos com Java.
 
-Olá! Meu nome é Luan Ribeiro e sou um entusiasta da tecnologia, atualmente cursando Ciência da Computação na Universidade de Brasília (UnB). Tenho grande interesse em desenvolvimento de software e soluções inovadoras para problemas do dia a dia.
+📊 **Atualmente explorando:** `Rust`, `Kubernetes` e `FastAPI`.
+🛠️ **Background técnico:** Desenvolvimento de APIs com Spring Boot e simuladores em C.
+💡 **Buscando aplicar** eficiência de baixo nível para resolver problemas de infraestrutura e performance no mercado.
 
-Busco constantemente aprimorar minhas habilidades e estou sempre aberto a novos desafios e oportunidades de aprendizado. No meu tempo livre, gosto de resolver problemas em plataformas como CodeWars e BeeCrowd para solidificar meu conhecimento.
-
----
-
-## 🔗 Contatos
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-ribeiro-2b3b52228/)
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luansantribeiro@gmail.com)
-[![OUTLOOK](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:luansantribeiro@hotmail.com)
-
----
-
-## 🚀 Projetos em Destaque
-
-### 1. Agregador de Investimentos
-<p>
-  <em>API REST para agregação de investimentos que permite aos usuários consolidar e acompanhar o desempenho de seus ativos de diversas corretoras. O projeto foi desenvolvido com foco em uma arquitetura de microsserviços, utilizando Docker para conteinerização.</em>
-</p>
-<p>
-  <strong>Tecnologias:</strong>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,docker" />
+<p align="left">
+  <a href="https://github.com/ineblinavel?tab=followers">
+    <img alt="followers" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/ineblinavel?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
   </a>
-</p>
-<p>
-  <a href="https://github.com/ineblinavel/AgregadorDeInvestimentos">🔗 Repositório no GitHub</a>
-</p>
-
-### 2. Simulador de Processador RISC-V
-<p>
-  <em>Implementação em C de um simulador para o conjunto de instruções RV32I do padrão RISC-V. O projeto processa código de montagem e simula o comportamento do processador, incluindo a execução de instruções, manipulação de registradores e acesso à memória. Demonstra um forte conhecimento de arquitetura de computadores.</em>
-</p>
-<p>
-  <strong>Tecnologias:</strong>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c" />
+  <a href="https://github.com/ineblinavel?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total de estrelas" src="https://custom-icon-badges.demolab.com/github/stars/ineblinavel?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/>
   </a>
-</p>
-<p>
-  <a href="https://github.com/ineblinavel/Simulador-RiscV">🔗 Repositório no GitHub</a>
+  <a href="https://www.linkedin.com/in/luan-ribeiro-2b3b52228/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="Vamos fazer uma conexão!" />
+  </a>
 </p>
 
 ---
 
-## 🛠️ Habilidades e Tecnologias
+### 🤖 Linguagens e Tecnologias
 
-
 <p align="left">
-  <strong>Linguagens de Programação:</strong><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js" />
-  </a>
-</p>
-<p align="left">
-  <strong>Desenvolvimento Backend:</strong><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,flask,spring" />
-  </a>
-</p>
-<p align="left">
-  <strong>Desenvolvimento Frontend:</strong><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css" />
-  </a>
-</p>
-<p align="left">
-  <strong>DevOps e Ferramentas:</strong><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,github" />
-  </a>
-</p>
-<p align="left">
-  <strong>Planejo Aprender:</strong><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,lua,kubernetes,react" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="45" alt="C" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="45" alt="C++" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" alt="Java" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="45" alt="Spring" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" alt="Python" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" alt="Docker" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" alt="PostgreSQL" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="45" alt="Neovim" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" alt="Linux" />
 </p>
 
+---
 
+### 🚀 Projetos em Destaque
+
+* **[Simulador RISC-V](https://github.com/ineblinavel/Simulador-RiscV):** Implementação em C do set RV32I, demonstrando controle de memória e registradores.
+* **[Agregador de Investimentos](https://github.com/ineblinavel/AgregadorDeInvestimentos):** API Spring Boot completa com Docker e integração de dados financeiros.
+
+---
+
+### 📊 Estatísticas (TokyoNight Theme)
+
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ineblinavel&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" width="420" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ineblinavel&layout=compact&theme=tokyonight&locale=pt-br" width="390" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Talk is cheap. Show me the code." - Linus Torvalds</i>
+</p>
