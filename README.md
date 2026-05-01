@@ -3,7 +3,7 @@
 ### 🎓 Estudante de Ciência da Computação @ UnB
 **Desenvolvedor Backend | Entusiasta de Sistemas Operacionais & Low-level**
 
-Sou graduando em Ciência da Computação pela **Universidade de Brasília (UnB)**. Atualmente, estou no 6º semestre e atuo como monitor/tutor acadêmico, auxiliando no ensino de lógica e algoritmos.
+Sou graduando em Ciência da Computação pela **Universidade de Brasília (UnB)**. Atualmente, estou no 6º semestre e atuo como tutor acadêmico, auxiliando no ensino de lógica e algoritmos.
 
 Acredito que a base da computação está nos detalhes do baixo nível. Por isso, foco meus estudos em arquitetura de computadores, compiladores e performance, sem deixar de lado a robustez de sistemas distribuídos com Java.
 
