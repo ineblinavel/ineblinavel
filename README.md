@@ -50,7 +50,7 @@ Acredito que a base da computação está nos detalhes do baixo nível. Por isso
 
 ---
 
-### 📊 Estatísticas (TokyoNight Theme)
+### 📊 Estatísticas
 
 <p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ineblinavel&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" width="420" />
