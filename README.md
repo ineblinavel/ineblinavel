@@ -45,7 +45,7 @@ Acredito que a base da computação está nos detalhes do baixo nível. Por isso
 
 ### 🚀 Projetos em Destaque
 
-* **[Simulador RISC-V](https://github.com/ineblinavel/Simulador-RiscV):** Implementação em C do set RV32I, demonstrando controle de memória e registradores.
+* **[Simulador RISC-V](https://github.com/ineblinavel/Simulador-RiscV):** Implementação em C++ do set RV32I, demonstrando controle de memória e registradores.
 * **[Agregador de Investimentos](https://github.com/ineblinavel/AgregadorDeInvestimentos):** API Spring Boot completa com Docker e integração de dados financeiros.
 
 ---
