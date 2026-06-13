@@ -21,7 +21,7 @@
 <b>University:</b> UnB (6º Semestre)
 <b>Shell:</b> Dev Backend (Java, Python, TS)
 <b>Kernel:</b> Low-Level & Systems (C/C++, ASM)
-<b>Tutor:</b> Lógica & Algoritmos @ UnB
+<b>Tutor:</b> APC (Algoritmos e Prog. de Computadores) @ UnB
 <b>Status:</b> Open for Opportunities 🟢</pre>
     </td>
     <td width="45%" valign="top" align="center">
@@ -88,7 +88,7 @@
 <h2 align="center"></h2>
 
 <div align="center">
-  <a href="mailto:luanribeiro.unb@gmail.com">
+  <a href="mailto:luansantribeiro@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/luan-ribeiro-2b3b52228/" target="_blank">
