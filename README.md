@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ineblinavel">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=150&color=2E6F40&text=LUAN%20%20RIBEIRO&fontSize=42&fontColor=ffffff&fontAlignY=35" style="max-width: 100%;" />
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=2E6F40&reversal=false&section=header" style="max-width: 100%;" />
   </a>
 </p>
 
