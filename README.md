@@ -17,10 +17,12 @@
     <td width="55%" valign="top">
       <h3>📟 System Specifications</h3>
       <pre>
-<b>Host:</b> Luan Ribeiro
-<b>University:</b> UnB (6º Semestre)
-<b>Shell:</b> Dev Backend (Java, Python, TS)
-<b>Kernel:</b> Low-Level & Systems (C/C++, ASM)
+<b>OS:</b> Debian GNU/Linux 13 (trixie)
+<b>Host:</b> Acer Nitro 5 AN515-47
+<b>Kernel:</b> Linux 6.12.90
+<b>CPU:</b> AMD Ryzen 5 7535HS (12)
+<b>GPU:</b> NVIDIA RTX 3050 Mobile
+<b>Memory:</b> 16 GB RAM
 <b>Tutor:</b> APC (Algoritmos e Prog. de Computadores) @ UnB
 <b>Status:</b> Open for Opportunities 🟢</pre>
     </td>
