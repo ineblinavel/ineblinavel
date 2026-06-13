@@ -89,11 +89,14 @@
 <h2 align="center"></h2>
 
 <div align="center">
-  <a href="mailto:luansantribeiro@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
+  <a href="https://ineblinavel.github.io/Portifolio/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfólio-%2310B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" />
   </a>
   <a href="https://www.linkedin.com/in/luan-ribeiro-2b3b52228/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:luansantribeiro@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
   </a>
 </div>
 
