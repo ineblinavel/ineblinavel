@@ -1,74 +1,64 @@
-# ⚡ Olá! Eu sou o Luan Ribeiro
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/luan-ribeiro-2b3b52228/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<p align="center">
+  <a href="https://github.com/ineblinavel">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=2E6F40&reversal=false&section=header" style="max-width: 100%;" />
   </a>
+</p>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E6F40&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Luan+Ribeiro!+%F0%9F%91%8B;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+UnB;Dev+Backend+%26+Low-Level+Enthusiast" alt="Typing SVG" style="max-width: 100%;" />
+  </a>
+</div>
+
+<h2 align="center"></h2>
+
+<div align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=ineblinavel&theme=tokyonight&show_icons=true&hide_border=false&count_private=true">
+    <img height="180em" alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ineblinavel&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" style="max-width: 100%;" />
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ineblinavel&theme=tokyonight&show_icons=true&hide_border=false&layout=compact">
+    <img height="180em" alt="Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ineblinavel&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" style="max-width: 100%;" />
+  </a>
+</div>
+
+<h2 align="center"></h2>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="45" alt="C" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="45" alt="C++" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" alt="Java" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="45" alt="Spring" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" alt="Python" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45" alt="TypeScript" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" alt="PostgreSQL" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" alt="Docker" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="45" alt="Neovim" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" alt="Linux" />
+</div>
+
+<h2 align="center"></h2>
+
+<div align="center">
   <a href="mailto:luanribeiro.unb@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
   </a>
-  <a href="https://github.com/ineblinavel?tab=followers">
-    <img alt="followers" src="https://custom-icon-badges.demolab.com/github/followers/ineblinavel?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/luan-ribeiro-2b3b52228/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/ineblinavel?tab=repositories&sort=stargazers">
-    <img alt="total stars" src="https://custom-icon-badges.demolab.com/github/stars/ineblinavel?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"/>
-  </a>
-</p>
+</div>
 
-### 🎓 Estudante de Ciência da Computação @ UnB (Universidade de Brasília)
-**Desenvolvedor Backend | Engenheiro de Software | Entusiasta de Baixo Nível & MLOps**
+<h2 align="center"></h2>
 
-Atualmente no 6º semestre, atuo como tutor acadêmico no ensino de lógica de programação e algoritmos. Acredito firmemente que a base da computação está nos detalhes do baixo nível e na eficiência de hardware. Foco meus estudos em arquitetura de computadores, compiladores e otimização de performance (C/C++, Assembly), combinados com a robustez e escalabilidade de sistemas distribuídos corporativos (Java, Spring Boot) e Inteligência Artificial voltada à produção (MLOps).
+### 🚀 Projetos em Destaque
 
----
+* **[🌳 Urban Canopy AI](https://github.com/ineblinavel/Projeto-IAA):** Detecção de árvores urbanas em tempo real com **YOLOv8** e **ONNX Runtime**, containerizado em **Docker** e com app web em **Streamlit**.
+* **[💹 Agregador de Investimentos](https://github.com/ineblinavel/AgregadorDeInvestimentos):** API RESTful completa de finanças em **Java 21** e **Spring Boot 3**, usando **Spring Security / JWT**, cache, resiliência (**Resilience4j**) e Docker.
+* **[💻 Simulador RISC-V RV32I](https://github.com/ineblinavel/Simulador-RiscV):** Simulador de CPU escrito em **C++** com suporte a instruções RV32I, banco de registradores, memória mapeada e testes diferenciais automatizados com **RARS**.
 
-## 🛠️ Tecnologias e Ferramentas
-
-| Categoria | Tecnologias |
-|-----------|-------------|
-| **Linguagens** | `C`, `C++`, `Java`, `Python`, `TypeScript`, `Assembly (RISC-V/x86)` |
-| **Backend & Frameworks** | `Spring Boot`, `Spring Security`, `Prisma ORM`, `ONNX Runtime` |
-| **Bancos de Dados** | `PostgreSQL`, `MySQL` |
-| **DevOps & Infra** | `Docker`, `Docker Compose`, `Git`, `CI/CD (GitHub Actions)` |
-| **Ferramentas & SO** | `Neovim`, `Linux (Bash/Shell Scripting)` |
-
----
-
-## 🚀 Projetos em Destaque
-
-Abaixo estão os projetos principais desenvolvidos por mim que demonstram aplicação de engenharia de software rigorosa e moderna:
-
-### [🌳 Urban Canopy AI](https://github.com/ineblinavel/Projeto-IAA)
-**Detecção de Copas de Árvores e Análise de Cobertura Vegetal**
-- Pipeline completo de MLOps: treinamento com **YOLOv8** em K-Fold Cross-Validation, otimização de pesos com **ONNX Runtime** para CPU (latência < 70ms).
-- Interface web interativa em **Streamlit** com suporte a upload dinâmico de modelos customizados e cálculo preciso de cobertura de copas.
-- Containerizado em **Docker** e preparado para deploy em nuvem.
-* **Tecnologias**: *Python, OpenCV, ONNX Runtime, Streamlit, Docker*
-
-### [💹 Agregador de Investimentos API](https://github.com/ineblinavel/AgregadorDeInvestimentos)
-**API RESTful de Gestão de Portfólio Financeiro**
-- Controle de usuários com autenticação JWT e criptografia de chaves **RSA assimétrica**.
-- Integração em tempo real com APIs de cotações de mercado (Brapi e Alpha Vantage), suporte a cache de dados e resiliência a falhas com **Resilience4j**.
-* **Tecnologias**: *Java 21, Spring Boot 3, Spring Security, JWT, MySQL, Spring Cache, Docker*
-
-### [💻 Simulador RISC-V RV32I](https://github.com/ineblinavel/Simulador-RiscV)
-**Simulador de Hardware e CPU em Baixo Nível**
-- Interpretador e executor de instruções nativas de CPU (RV32I) com suporte a banco de registradores de uso geral, segmentação de memória e chamadas de sistema (ECALL).
-- Testes diferenciais automatizados via Makefile comparando o estado final do simulador com o emulador de referência **RARS**.
-* **Tecnologias**: *C++, Assembly, Shell Script, Makefile, Clang-Tidy*
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ineblinavel&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" width="420" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ineblinavel&layout=compact&theme=tokyonight&locale=pt-br" width="390" />
-</p>
-
----
+<h2 align="center"></h2>
 
 <p align="center">
-  <i>"Talk is cheap. Show me the code." - Linus Torvalds</i>
+  <a href="https://github.com/ineblinavel">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=2E6F40&reversal=true&section=footer" style="max-width: 100%;" />
+  </a>
 </p>
